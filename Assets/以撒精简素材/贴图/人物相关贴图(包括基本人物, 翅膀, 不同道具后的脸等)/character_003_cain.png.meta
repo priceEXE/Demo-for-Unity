@@ -1,0 +1,1733 @@
+fileFormatVersion: 2
+guid: 41698575233db5645b4bc7bbf7345b9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_003_cain_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ab9e53d46120240b5577491430b33b
+      internalID: -1537990397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 484
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd1f2b61031e14393228031aff2987
+      internalID: -2126842904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71890ff311eaa2a4095aa5ed0d06d334
+      internalID: 1654284970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 484
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d512c34fdaf648a3c0f51f776e86e
+      internalID: 754227639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f494b0f7603e46a5ba9f22ec86c00
+      internalID: -1998725495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 484
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399c054502a5a046943b7dc3c78a7bf
+      internalID: -1615951299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 485
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e696fcd0883e9e4cbb83ff9edda5081
+      internalID: 1640094012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 486
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49633c6c03cd98a4b948c61f50549cf4
+      internalID: 958405430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3643a395bcf347b166349a6ce1f89
+      internalID: 879576403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 485
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35303e53e360377409879fd955d68c75
+      internalID: 684418420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 486
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ef0d2a5b02ce344946467811df0a48
+      internalID: -1555260818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e237e5c98579040891a9daa42aa652
+      internalID: -1382911778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ecbbb2b70a10b48a5885714a5eb3c3
+      internalID: 1558674454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3c09b12578270459c185a3db7dc13a
+      internalID: 904951194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 453
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41159ff0ef862ba43a90349196d30129
+      internalID: -328323788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 454
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a163c30ea644408566bcdc125cddf
+      internalID: 830308977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ddd367ce1c8e4298cd99c98310018
+      internalID: -479476813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7b9647d15e3a4da588cf2cb35f685
+      internalID: -2023428543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72caeaf8fe76c344b341947bc31f4e5
+      internalID: 1167217857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836910910e431b44a7d56d6e7d6578b
+      internalID: -1469641657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d6715f3fa0bb41b285f75a16062c7
+      internalID: -244063370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d011fbadd088745bbdb97d2dac91e6
+      internalID: -54289082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 453
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d0f7114dca6f418eac7c88ad3f767
+      internalID: -1433455195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 454
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c4f52a238ad449a3e422153121604
+      internalID: 521510831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0294e1a12df4934fb2a317ab469e5ce
+      internalID: -1686330850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca7ce582e260d4a8fcaaf8797a9e9b
+      internalID: -1930179265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_26
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a119e116643c945b54a1bf5eae8683
+      internalID: -1237087155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1680ba0534cf74e84bac5c0dec7ad0
+      internalID: 360661594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 423
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d73f26fafc10374781dce9072a51aa8
+      internalID: 778722910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 423
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643b558ca75fbb49b150f4317f5cbbc
+      internalID: 161439644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ffa41c5813c554f8ec2cf1addbf8b9
+      internalID: 1732523667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 423
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e34e69cf3e2741bd0b8099a04fe5e
+      internalID: 1150971436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 423
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaccffb7deebd64c8c03bdf14297d39
+      internalID: 968040934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 423
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6a18cc51dd6a4b875bb82b1feb6d7
+      internalID: -962310320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 423
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799b1888cdf7344c9fcae0212f63eb9
+      internalID: -39865560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffea9c96467e6dd45b54c99f65e19acd
+      internalID: -942584624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521687dbb18ead24c8c30e227d2a0b11
+      internalID: -1387836559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651815a0f2a382c41b34f1fbf6dc6dc5
+      internalID: 1109880947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d70a29c864bb489ffd5affe3d22e7
+      internalID: 2086307078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16975b25892c514283b9c8becfddc66
+      internalID: 1421401374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b132ce89188b64e8a9338894cc0222
+      internalID: -1628764206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb2eeba0a0b754898e3890330d22c9
+      internalID: 787375219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f92203630775c42b87596527242e37
+      internalID: -201232699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 391
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f39ecff2b31e46a42d4983a9eab0a
+      internalID: 821649802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 391
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6778a54aab20d3345b5849fabeb0cc51
+      internalID: 353879974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 391
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a37161eec8734ba711fcf8aa8af59
+      internalID: 638847813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_46
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 391
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b1827183468f94b8db61b454d1b071
+      internalID: 2127418665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 327
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0a1b77b37e03429e250eb134a050d
+      internalID: -272887586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 327
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac2229d1a850c4bb6568c1c0da6251
+      internalID: -1140138028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dedb98f44088914ca5724f9cd459f4d
+      internalID: 1392508873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df46c7470643f45961ef75628340b9
+      internalID: 1328347200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 341
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b297095050fb8e443bc13adea42be95e
+      internalID: 774771479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 263
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e419a0fdc3a84fab0d79ffb385789
+      internalID: 1724967803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 263
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9568432a40024804bac473fc6d8c746e
+      internalID: -1787116744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 265
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4a1f23ce92e641ae5b27f98ab3b33
+      internalID: 1525150075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 261
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a504cc6e3e1150d438120d256061cf62
+      internalID: 815567008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 199
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ac51f9b0853f4b99031d4ae23372c
+      internalID: 1942029367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 202
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeb582aac891b043acf5c5a975f5b99
+      internalID: -574820778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 200
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc557eff3e33cd94b8f6964f63a6de45
+      internalID: -1810447677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfc1a3890a63e749a89aa9bed96e555
+      internalID: -408068063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380ac3f172efdfc4fa271a77a2378f63
+      internalID: -401775287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 149
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d07ce5ea9de84d9a6556d17025363
+      internalID: -520374386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 149
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b421cdaf5b3fbe4ea168ee1bc446e22
+      internalID: -951371078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 14
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268496ff168a12f418c0f3d2d308ada3
+      internalID: -398490757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 133
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd2b921d71083443b73fbca5128a4c5
+      internalID: -1204058037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d46e3139d3614398fca5fb8f7c235
+      internalID: 1735082552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 133
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15320f4ea0fee4e84e997e99490ce8
+      internalID: -311425634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 117
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb033c56668e25845b062c5813de6762
+      internalID: -976727295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 114
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e83effa44de155459cec6d3fdba8245
+      internalID: -638571937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3cdd2e5fe0e2445ba61d910e17baad
+      internalID: 2059378505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57844154ad2e7184691f8b139ce821d2
+      internalID: 1773504812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd02dc268f05341a5856a3ffee9822
+      internalID: -1349203108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_003_cain_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102140c193e2da489b090049b43e81a
+      internalID: -1335376563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      character_003_cain_0: -1537990397
+      character_003_cain_1: -2126842904
+      character_003_cain_10: -1555260818
+      character_003_cain_11: -1382911778
+      character_003_cain_12: 1558674454
+      character_003_cain_13: 904951194
+      character_003_cain_14: -328323788
+      character_003_cain_15: 830308977
+      character_003_cain_16: -479476813
+      character_003_cain_17: -2023428543
+      character_003_cain_18: 1167217857
+      character_003_cain_19: -1469641657
+      character_003_cain_2: 1654284970
+      character_003_cain_20: -244063370
+      character_003_cain_21: -54289082
+      character_003_cain_22: -1433455195
+      character_003_cain_23: 521510831
+      character_003_cain_24: -1686330850
+      character_003_cain_25: -1930179265
+      character_003_cain_26: -1237087155
+      character_003_cain_27: 360661594
+      character_003_cain_28: 778722910
+      character_003_cain_29: 161439644
+      character_003_cain_3: 754227639
+      character_003_cain_30: 1732523667
+      character_003_cain_31: 1150971436
+      character_003_cain_32: 968040934
+      character_003_cain_33: -962310320
+      character_003_cain_34: -39865560
+      character_003_cain_35: -942584624
+      character_003_cain_36: -1387836559
+      character_003_cain_37: 1109880947
+      character_003_cain_38: 2086307078
+      character_003_cain_39: 1421401374
+      character_003_cain_4: -1998725495
+      character_003_cain_40: -1628764206
+      character_003_cain_41: 787375219
+      character_003_cain_42: -201232699
+      character_003_cain_43: 821649802
+      character_003_cain_44: 353879974
+      character_003_cain_45: 638847813
+      character_003_cain_46: 2127418665
+      character_003_cain_47: -272887586
+      character_003_cain_48: -1140138028
+      character_003_cain_49: 1392508873
+      character_003_cain_5: -1615951299
+      character_003_cain_50: 1328347200
+      character_003_cain_51: 774771479
+      character_003_cain_52: 1724967803
+      character_003_cain_53: -1787116744
+      character_003_cain_54: 1525150075
+      character_003_cain_55: 815567008
+      character_003_cain_56: 1942029367
+      character_003_cain_57: -574820778
+      character_003_cain_58: -1810447677
+      character_003_cain_59: -408068063
+      character_003_cain_6: 1640094012
+      character_003_cain_60: -401775287
+      character_003_cain_61: -520374386
+      character_003_cain_62: -951371078
+      character_003_cain_63: -398490757
+      character_003_cain_64: -1204058037
+      character_003_cain_65: 1735082552
+      character_003_cain_66: -311425634
+      character_003_cain_67: -976727295
+      character_003_cain_68: -638571937
+      character_003_cain_69: 2059378505
+      character_003_cain_7: 958405430
+      character_003_cain_70: 1773504812
+      character_003_cain_71: -1349203108
+      character_003_cain_72: -1335376563
+      character_003_cain_8: 879576403
+      character_003_cain_9: 684418420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

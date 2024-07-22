@@ -1,0 +1,1733 @@
+fileFormatVersion: 2
+guid: d161a484a72cb2745a2fe63c912f763d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_004_judas_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38150da2cec6974dacc8f57c940814b
+      internalID: -605439741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 484
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8dbb953c866c46932936d7cb02c46
+      internalID: -363132565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba77d1ecae0c114dad3126b45e9b451
+      internalID: -37620756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 484
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969c3b1203493e147974d20b8eda9edb
+      internalID: -1384091946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2006f1ef46684e9f7251c867774f6
+      internalID: 248210509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 484
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93660b8f9830884f9a2e53dd1909804
+      internalID: -1339308320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 485
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54416a56b449243a119d65c83662aa
+      internalID: -742258385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 486
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c8e6b778e14e4ea6b231f2458f3f0
+      internalID: -814560274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 485
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c68127d3c3c09478caf5d320a1278a
+      internalID: -1196114003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 485
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efd1daf5dcc133428516cf89dded951
+      internalID: 1834820186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 486
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52d043bcbb9c74bbfbd567098d816c
+      internalID: -1937420941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6737f5e573654598e5d06e391c39e
+      internalID: -816533935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be2490ffb08c847ab41e98d0d755b0
+      internalID: -574727449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b47b191b50ce44689caf9bcf546738
+      internalID: 1750050791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 453
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7ef3e80d96b564eb780de937c7717d
+      internalID: 323255232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 454
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb696957c8cd404eb28eb9ca26b3ebd
+      internalID: -1153450615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ab187abf3a124183a4594ae69cd46
+      internalID: -1106833617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675f9e26cb94d904ca7c478d9003d62d
+      internalID: -2098901897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 455
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001d650b10052e45bde5019e90b19d3
+      internalID: -1317592081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3d6089de27aba41ad9593c64e8cc20
+      internalID: 551504936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed0970cc0cdf14ba4f24cf0aa3b882
+      internalID: 776274812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8360a23431557349bfe417fabeb97ff
+      internalID: -191374928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 453
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1796b1832a35f449a72873135e93c75
+      internalID: 1105739478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 454
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817da3066926c084c81915fbe779a19e
+      internalID: 2019757804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0764949f81adae47a487226c2776e24
+      internalID: -1810628874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f36b0d6454a64bb407f461bddc667
+      internalID: -1554608287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_26
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 455
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d643c27a42b8d3458d1bb3f6c3932f0
+      internalID: 2139039051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fddb7852e261974c89d1f3b1ba40068
+      internalID: 870566170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 423
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d29fd33fb4df24393970e729858729
+      internalID: 702632143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 423
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e6fc6ccea5c3842bb389355e97930f
+      internalID: -1581715131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c74db37c70c774f985e8f030b1ef5c
+      internalID: -960061331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 423
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60979f653fa192149a0f461e2ed99bf1
+      internalID: 613246994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 423
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c040b29caceda264f8122dcec414602d
+      internalID: 376697169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 423
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a9f19b93ec3cf4f99c48e5bcca8b8f
+      internalID: 2067990591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 423
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3620be350cb02e46aac7ab95071e0d3
+      internalID: -1109791103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea753ff79f410408f88fcfcbece2f1
+      internalID: -1665376402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b638392988df1b48908a8112f9ffb89
+      internalID: -1382114709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c556ee55e303ede4ca7d217f4468ba75
+      internalID: 458189642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bac38628af5c95439e614410424c101
+      internalID: -125076177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab618042fabbf634299e4c11e0372357
+      internalID: -1366500447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16dd7062777d1d4db4c4a5aa567d76e
+      internalID: 1625874399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_41
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d3f4b0d0c0084ba2e74201fb74837
+      internalID: 1236000482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 423
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc2d75967bf414ea7cf29abea3ef8b
+      internalID: -1154568876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 391
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd6ac4552ab0d4795e86bc9136788c
+      internalID: -1181441154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 391
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45891cc118f314948b97cc71819c5323
+      internalID: 484847229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 391
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b87b8421db7c747a5f87a4b34d9d8d
+      internalID: -147512449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_46
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 391
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602e77907bf64304e8fd2863f5264389
+      internalID: 413717616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 327
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ffb436fab8e9b4687a29ed1cdb7607
+      internalID: -227331633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 327
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430c7f9775951c47bb905c859ab7cfc
+      internalID: 361096261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdbfc3fd36217746affbfcf462d3b25
+      internalID: -1661565872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_50
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdc81daf162bcc4b98770130fe08eb5
+      internalID: 147563634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 341
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5663374910fb2c245bf3bd15a5e9da99
+      internalID: 2048412491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 263
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675da9e2bf419044ab7151162a520f0
+      internalID: 1579577695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 263
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf6a093d4e3d9d40848fafc25f77a89
+      internalID: -994688971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 265
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc63fa83a3e369e4bb5efaad4f36278d
+      internalID: -277902026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 261
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96798e9cf90ab1041a253db9680f5479
+      internalID: 1779228161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 199
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b376d67dc0ec4fb3905033e28ba10
+      internalID: 161888018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 202
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea22539409c4b414595d44aa128333b8
+      internalID: -857192450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 200
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09579258ef564a34aaadbf7f738c4891
+      internalID: 219126907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed402774c37aa440b96b25ee8c95218
+      internalID: -1671388793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32b1ec95d8d8543a7da07e882f27c7
+      internalID: 787936193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 149
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf48a6e3555c2e42a2e2fc2d9f3544d
+      internalID: 1907272542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 149
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ea4b3894fe3146b7bb5029604c544
+      internalID: -1335401196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_63
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 14
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a898ed7b5a9148b2a0bb8d80af065
+      internalID: 619774068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 133
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb835f29ea0bf4883f7c601e490dec
+      internalID: 1992761854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d8fb4cec756d43ac08e6f3e3ac323
+      internalID: 712263311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 133
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b722a2d718cfa8c488ed560890bf8fff
+      internalID: 1840887007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 117
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627488a1180513445aab04d1fea7a467
+      internalID: 1597980705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 114
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f7b688f8dc4949b56243799728e1a
+      internalID: 1725204692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6399796cb581145a9e2a7967c95636
+      internalID: -1628101109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb49ed68f4bfe46b02f4a24edb1718
+      internalID: 1614625050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f04a0fc654f740a24a1ab9f13ba9c
+      internalID: 931227870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_004_judas_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89c3bf50d28ab4584866501d14f318
+      internalID: -1276182453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      character_004_judas_0: -605439741
+      character_004_judas_1: -363132565
+      character_004_judas_10: -1937420941
+      character_004_judas_11: -816533935
+      character_004_judas_12: -574727449
+      character_004_judas_13: 1750050791
+      character_004_judas_14: 323255232
+      character_004_judas_15: -1153450615
+      character_004_judas_16: -1106833617
+      character_004_judas_17: -2098901897
+      character_004_judas_18: -1317592081
+      character_004_judas_19: 551504936
+      character_004_judas_2: -37620756
+      character_004_judas_20: 776274812
+      character_004_judas_21: -191374928
+      character_004_judas_22: 1105739478
+      character_004_judas_23: 2019757804
+      character_004_judas_24: -1810628874
+      character_004_judas_25: -1554608287
+      character_004_judas_26: 2139039051
+      character_004_judas_27: 870566170
+      character_004_judas_28: 702632143
+      character_004_judas_29: -1581715131
+      character_004_judas_3: -1384091946
+      character_004_judas_30: -960061331
+      character_004_judas_31: 613246994
+      character_004_judas_32: 376697169
+      character_004_judas_33: 2067990591
+      character_004_judas_34: -1109791103
+      character_004_judas_35: -1665376402
+      character_004_judas_36: -1382114709
+      character_004_judas_37: 458189642
+      character_004_judas_38: -125076177
+      character_004_judas_39: -1366500447
+      character_004_judas_4: 248210509
+      character_004_judas_40: 1625874399
+      character_004_judas_41: 1236000482
+      character_004_judas_42: -1154568876
+      character_004_judas_43: -1181441154
+      character_004_judas_44: 484847229
+      character_004_judas_45: -147512449
+      character_004_judas_46: 413717616
+      character_004_judas_47: -227331633
+      character_004_judas_48: 361096261
+      character_004_judas_49: -1661565872
+      character_004_judas_5: -1339308320
+      character_004_judas_50: 147563634
+      character_004_judas_51: 2048412491
+      character_004_judas_52: 1579577695
+      character_004_judas_53: -994688971
+      character_004_judas_54: -277902026
+      character_004_judas_55: 1779228161
+      character_004_judas_56: 161888018
+      character_004_judas_57: -857192450
+      character_004_judas_58: 219126907
+      character_004_judas_59: -1671388793
+      character_004_judas_6: -742258385
+      character_004_judas_60: 787936193
+      character_004_judas_61: 1907272542
+      character_004_judas_62: -1335401196
+      character_004_judas_63: 619774068
+      character_004_judas_64: 1992761854
+      character_004_judas_65: 712263311
+      character_004_judas_66: 1840887007
+      character_004_judas_67: 1597980705
+      character_004_judas_68: 1725204692
+      character_004_judas_69: -1628101109
+      character_004_judas_7: -814560274
+      character_004_judas_70: 1614625050
+      character_004_judas_71: 931227870
+      character_004_judas_72: -1276182453
+      character_004_judas_8: -1196114003
+      character_004_judas_9: 1834820186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
