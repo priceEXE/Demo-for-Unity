@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Experimental.GlobalIllumination;
 
-public class Issac : MonoBehaviour
+public class Player : MonoBehaviour
 {
     public int speed = 5;
     public int bulletSpeed = 1;
