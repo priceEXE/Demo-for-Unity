@@ -3,7 +3,9 @@ guid: 124cdd4c21bb7e14dba0f42eedddc2ff
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Room: {fileID: 2236825010702149319, guid: b6283a503c763bd4b94d5d110b5d51b0, type: 3}
+  - generatorpoint: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

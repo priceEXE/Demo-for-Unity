@@ -1,8 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Mathematics;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Experimental.GlobalIllumination;
+using UnityEngine.PlayerLoop;
 
 public class Player : MonoBehaviour
 {
@@ -20,6 +22,8 @@ public class Player : MonoBehaviour
     public Animator animator_body;
     public Animator animator_head;
     private Rigidbody2D _Rigbody;
+
+    public GameObject bullet_Pre;
     // Start is called before the first frame update
     void Start()
     {
@@ -50,6 +54,7 @@ public class Player : MonoBehaviour
             {
                 animator_head.SetBool("isShooted-left",true);
                 Debug.Log("向左攻击");
+                ShootLeft();
                 invoketime = 0f;
             }
         }
@@ -62,6 +67,7 @@ public class Player : MonoBehaviour
             {
                 animator_head.SetBool("isShooted-right",true);
                 Debug.Log("向you攻击");
+                ShootRight();
                 invoketime = 0f;
             }
         }
@@ -73,7 +79,8 @@ public class Player : MonoBehaviour
             if(invoketime > shootFrequecy)
             {
                 animator_head.SetBool("isShooted-up",true);
-                Debug.Log("向上攻击");
+                Debug.Log("向shang攻击");
+                ShootUp();
                 invoketime = 0f;
             }
         }
@@ -86,6 +93,7 @@ public class Player : MonoBehaviour
             {
                 animator_head.SetBool("isShooted-down",true);
                 Debug.Log("向下攻击");
+                ShootDown();
                 invoketime = 0f;
             }    
         }
@@ -114,4 +122,34 @@ public class Player : MonoBehaviour
             animator_head.SetBool("isShooted-down",false);
         }
     }
+
+    void ShootRight()
+    {
+        Vector2 direction = new Vector2(bulletSpeed,0);
+        Vector2 pos = transform.position;
+        GameObject Buullet = Instantiate(bullet_Pre,pos,Quaternion.identity);
+        Buullet.GetComponent<Bullet>().SetSpeed(direction);
+    }
+    void ShootLeft()
+    {
+        Vector2 direction = new Vector2(-bulletSpeed,0);
+        Vector2 pos = transform.position;
+        GameObject Buullet = Instantiate(bullet_Pre,pos,Quaternion.identity);
+        Buullet.GetComponent<Bullet>().SetSpeed(direction);
+    }
+    void ShootUp()
+    {
+        Vector2 direction = new Vector2(0,bulletSpeed);
+        Vector2 pos = transform.position;
+        GameObject Buullet = Instantiate(bullet_Pre,pos,Quaternion.identity);
+        Buullet.GetComponent<Bullet>().SetSpeed(direction);
+    }
+    void ShootDown()
+    {
+        Vector2 direction = new Vector2(0,-bulletSpeed);
+        Vector2 pos = transform.position;
+        GameObject Buullet = Instantiate(bullet_Pre,pos,Quaternion.identity);
+        Buullet.GetComponent<Bullet>().SetSpeed(direction);
+    }
+    
 }

@@ -28,9 +28,9 @@ Transform:
   m_GameObject: {fileID: 819591765341132073}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.04, y: 0.01, z: -0.019251935}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 1.1}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 7015118242004282820}
   - {fileID: 7305054092084111287}
@@ -49,11 +49,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  bulletSpeed: 1
-  attck_length: 0
-  shootFrequecy: 0.1
+  bulletSpeed: 3
+  attck_length: 1
+  shootFrequecy: 0.5
   animator_body: {fileID: 5062106645807686156}
   animator_head: {fileID: 1452299851532332360}
+  bullet_Pre: {fileID: 7254000494628172779, guid: 3b362b86dbf9bb3469970bc221b15903, type: 3}
 --- !u!50 &2737545905546209681
 Rigidbody2D:
   serializedVersion: 4
@@ -80,7 +81,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &968660958223325268
 CircleCollider2D:
   m_ObjectHideFlags: 0

@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Room
   - BackGround
+  - Wall
+  - RoomArea
+  - Door
   layers:
   - Default
   - TransparentFX
@@ -51,4 +54,10 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3346032807
+    locked: 0
+  - name: Enamy
+    uniqueID: 202635047
+    locked: 0
+  - name: Bullet
+    uniqueID: 2683144217
     locked: 0

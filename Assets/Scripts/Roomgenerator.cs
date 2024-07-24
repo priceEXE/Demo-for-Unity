@@ -4,17 +4,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class moveRoomGe : MonoBehaviour
+public class RoomGenarator : MonoBehaviour
 {
     public enum Direction{ up,down,left,right};
+    public enum RoomId{Normal,Award,Boss};
     public Direction direction;
     [Header("房间信息")]
-    public RoomType RoomType;
+    public Room Normal,Award,Boss;
     public int roomNumber;
     private GameObject endRoom;
 
-
-    public Color stratcolor,endcolor;
 
     [Header("位置控制")]
     public Transform generatorpoint;
@@ -22,7 +21,10 @@ public class moveRoomGe : MonoBehaviour
     public float yOffset;
     public LayerMask roomlayer;
     public int maxStep;
+
     public List<Room> rooms = new List<Room>();
+
+
     List<GameObject> farRoom = new List<GameObject>();
     List<GameObject> lessFarRoom = new List<GameObject>();
     List<GameObject> oneWayRoom = new List<GameObject>();
@@ -34,30 +36,29 @@ public class moveRoomGe : MonoBehaviour
         {
             if(i==0)
             {
-                rooms.Add(Instantiate(RoomType.Normal, generatorpoint.position,Quaternion.identity).GetComponent<Room>());    
+                rooms.Add(Instantiate(Normal, generatorpoint.position,Quaternion.identity).GetComponent<Room>());    
+            }
+            else if(i==roomNumber-1)
+            {
+                rooms.Add(Instantiate(Boss, generatorpoint.position,Quaternion.identity).GetComponent<Room>());
             }
             else    {
-                rooms.Add(Instantiate(RoomType.Normal, generatorpoint.position,Quaternion.identity).GetComponent<Room>());
+                rooms.Add(Instantiate(Normal, generatorpoint.position,Quaternion.identity).GetComponent<Room>());
             }
             ChangePoint();
         }
-        rooms[0].GetComponent<SpriteRenderer>().color = stratcolor;
         endRoom = rooms[0].gameObject;
         foreach(var room in rooms)
         {
-            //if(room.transform.position.sqrMagnitude > endRoom.transform.position.sqrMagnitude)
-            //{
-            //    endRoom = room.gameObject;
-            //}
             SetupRoom(room,room.transform.position);
         }
 
         //创建Boss房
 
-        FindEndRoom();
-        endRoom.GetComponent<SpriteRenderer>().color = endcolor;
+        //FindEndRoom();
     }
 
+    //设置房间
     public void SetupRoom(Room newroom, Vector3 roomposition)
     {
         //生成门
@@ -103,17 +104,11 @@ public class moveRoomGe : MonoBehaviour
             endRoom = farRoom[UnityEngine.Random.Range(0,farRoom.Count)];
         }
     }
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
+    //更改生成点位置
     public void ChangePoint()
     {
         do{
-
-        
         direction = (Direction)UnityEngine.Random.Range(0,4);
         switch(direction)
         {
@@ -133,9 +128,11 @@ public class moveRoomGe : MonoBehaviour
         }while(Physics2D.OverlapCircle(generatorpoint.position,0.2f,roomlayer));
     }
 }
+
+/*
 [System.Serializable]
 public class RoomType
 {
     public enum RoomId{Normal,Award,Boss}
     public GameObject Normal,Award,Boss;
-}
+}*/
