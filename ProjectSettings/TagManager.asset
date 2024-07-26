@@ -9,6 +9,9 @@ TagManager:
   - Wall
   - RoomArea
   - Door
+  - Bullet
+  - Enamy
+  - Obstract
   layers:
   - Default
   - TransparentFX
@@ -48,6 +51,12 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 2848864419
+    locked: 0
+  - name: Wall
+    uniqueID: 3416879313
+    locked: 0
+  - name: corrider
+    uniqueID: 1558886693
     locked: 0
   - name: Door
     uniqueID: 879996387

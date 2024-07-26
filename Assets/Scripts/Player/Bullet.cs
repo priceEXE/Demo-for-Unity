@@ -5,7 +5,7 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public Player player;
-    private Rigidbody2D Rigidbody;
+    public Rigidbody2D Rigidbody;
     // Start is called before the first frame update
     void Awake()
     {
@@ -26,7 +26,7 @@ public class Bullet : MonoBehaviour
     //子弹碰撞销毁
     private void OnTriggerEnter2D(Collider2D other) 
     {
-        if(other.CompareTag("Wall") || other.CompareTag("Eneamy") || other.CompareTag("Obstract"))
+        if(other.CompareTag("Wall") || other.gameObject.CompareTag("Enamy") || other.CompareTag("Obstract"))
         {
             Destroy(gameObject);
         }

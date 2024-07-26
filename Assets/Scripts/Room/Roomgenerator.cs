@@ -32,7 +32,7 @@ public class RoomGenarator : MonoBehaviour
     void Start()
     {
         //生成房间
-        for(int i=0;i<roomNumber;i++)
+        /*for(int i=0;i<roomNumber;i++)
         {
             if(i==0)
             {
@@ -46,12 +46,11 @@ public class RoomGenarator : MonoBehaviour
                 rooms.Add(Instantiate(Normal, generatorpoint.position,Quaternion.identity).GetComponent<Room>());
             }
             ChangePoint();
-        }
-        endRoom = rooms[0].gameObject;
-        foreach(var room in rooms)
+        }*/
+        /*foreach(var room in rooms)
         {
             SetupRoom(room,room.transform.position);
-        }
+        }*/
 
         //创建Boss房
 
@@ -59,18 +58,10 @@ public class RoomGenarator : MonoBehaviour
     }
 
     //设置房间
-    public void SetupRoom(Room newroom, Vector3 roomposition)
-    {
-        //生成门
-        newroom.roomUp = Physics2D.OverlapCircle(roomposition + new Vector3(0,yOffset,0),0.2f,roomlayer);
-        newroom.roomDown = Physics2D.OverlapCircle(roomposition + new Vector3(0,-yOffset,0),0.2f,roomlayer);
-        newroom.roomLeft = Physics2D.OverlapCircle(roomposition + new Vector3(-xOffset,0,0),0.2f,roomlayer);
-        newroom.roomRight = Physics2D.OverlapCircle(roomposition + new Vector3(xOffset,0,0),0.2f,roomlayer);
-        newroom.UpdateRoom(xOffset,yOffset);
-    }
+    
 
     //寻找单门最远房间
-    public void FindEndRoom()
+/*    public void FindEndRoom()
     {
         for(int i=0;i<rooms.Count;i++)
         {
@@ -103,10 +94,10 @@ public class RoomGenarator : MonoBehaviour
         else{
             endRoom = farRoom[UnityEngine.Random.Range(0,farRoom.Count)];
         }
-    }
+    }*/
 
     //更改生成点位置
-    public void ChangePoint()
+ /*   public void ChangePoint()
     {
         do{
         direction = (Direction)UnityEngine.Random.Range(0,4);
@@ -126,7 +117,7 @@ public class RoomGenarator : MonoBehaviour
                 break;
         }
         }while(Physics2D.OverlapCircle(generatorpoint.position,0.2f,roomlayer));
-    }
+    }*/
 }
 
 /*
