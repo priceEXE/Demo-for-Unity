@@ -6,7 +6,7 @@ public class Enamy : MonoBehaviour
 {
     public Bullet bullet;
     public Rigidbody2D _rigidBody;
-    public RoomArea roomArea;
+    public GameObject roomArea;
     private int health = 5;
     public float attack_length;
 
@@ -35,7 +35,7 @@ public class Enamy : MonoBehaviour
         else if(other.gameObject.CompareTag("Bullet") && health==0)
         {
             Destroy(gameObject);
-            roomArea.Count_enamy--;
+            roomArea.GetComponent<RoomArea>().Count_enamy--;
         }
     }
 
